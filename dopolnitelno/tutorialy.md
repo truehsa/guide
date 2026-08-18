@@ -15,8 +15,12 @@ icon: eyes
 Большинство ответов на вопросы по HLAE собраны на этой странице. Всё на английском, если не шарите - пользуетесь переводчиком.
 {% endembed %}
 
-## @unner EDITING STREAM
+## @unner EDITING STREAM №1
 
 Стрим с разбором от и до что используется для записи, разделено на тайм-коды.
 
 {% embed url="https://www.youtube.com/watch?v=2IKMlYBag74" %}
+
+## @unner EDITING STREAM №2
+
+{% embed url="https://www.youtube.com/live/eiZbDiPolMk" %}
