@@ -30,7 +30,7 @@ layout:
 
 {% file src="../.gitbook/assets/hsa.cfg" %}
 
-Файл должен лежать в корневой папке игры `/csgo_legacy/csgo/cfg/`
+Файл должен лежать в корневой папке игры `/csgo_legacy/csgo/cfg/` и быть активирован через консоль `exec hsa`
 
 Конфиг записывает видео в 1080 FPS, накидывая на него очень крутой Motion Blur. Пример показан тут: [https://www.youtube.com/watch?v=\_sv7HkTPa24](https://www.youtube.com/watch?v=_sv7HkTPa24)
 
@@ -74,6 +74,12 @@ bind "K" — включить/выключить гринскрин (для от
 7. **Результат:**
 
 {% embed url="https://www.youtube.com/watch?v=LQjquuDYVO0" %}
+
+## Другие конфиги
+
+Если требуются другие настройки для записи/изменения мира/вьюмодел и прочий стафф, то unner поделился своими конфигами из роликов: [https://drive.google.com/drive/folders/1-WxE\_PMKMoCed4zks8o9B7a\_gtwgtCkO](https://drive.google.com/drive/folders/1-WxE_PMKMoCed4zks8o9B7a_gtwgtCkO)
+
+Закидываете конфиги в  `/csgo_legacy/csgo/cfg/` и используете через `exec <название кфг>`
 
 {% hint style="info" %}
 На этом основной гайд заканчивается. Возможно будут добавлены дополнительные топики по другим темам или аддонам к Counter-Strike. Спасибо за прочтение.
