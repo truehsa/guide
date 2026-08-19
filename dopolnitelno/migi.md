@@ -51,7 +51,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/изображение (50).png" alt="" width="381"><figcaption></figcaption></figure>
 
-## Установка аддонов (модов)
+## Установка аддонов
 
 В качестве примера установим мод на плюшевых фумо вместо гранат в контр страйк.
 
@@ -101,7 +101,7 @@ layout:
 
 {% columns %}
 {% column width="33.33333333333333%" valign="middle" %}
-<figure><img src="../.gitbook/assets/Discord_hWeN2RdIu7.png" alt="" width="183"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Discord_hWeN2RdIu7.png" alt="" width="183"><figcaption></figcaption></figure></div>
 
 
 {% endcolumn %}
@@ -123,7 +123,7 @@ layout:
 
 {% columns %}
 {% column width="58.333333333333336%" %}
-<figure><img src="../.gitbook/assets/изображение (55).png" alt="" width="563"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/изображение (55).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 {% endcolumn %}
