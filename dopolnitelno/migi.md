@@ -81,16 +81,56 @@ layout:
 
 ## Где искать аддоны?
 
-Аддоны можно найти на специализированных серверах Discord, вот несколько из них:
+Аддоны можно найти на специализированных серверах Discord, вот парочка из них:
 
-{% embed url="https://discordapp.com/invite/UmE9JG7" %}
+### Discord Server: Derivative Eagles
 
-{% embed url="https://discordapp.com/invite/GrYQmDMs8w" %}
+{% columns %}
+{% column width="33.33333333333333%" valign="middle" %}
+<div align="left"><figure><img src="../.gitbook/assets/изображение (64).png" alt="" width="183"><figcaption></figcaption></figure></div>
+{% endcolumn %}
+
+{% column width="66.66666666666667%" %}
+Вступить можно по ссылке:
+
+[https://discord.com/invite/UmE9JG7](https://discord.com/invite/UmE9JG7)
+{% endcolumn %}
+{% endcolumns %}
+
+### Discord Server: Parabellum Hub
+
+{% columns %}
+{% column width="33.33333333333333%" valign="middle" %}
+<figure><img src="../.gitbook/assets/Discord_hWeN2RdIu7.png" alt="" width="183"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column width="66.66666666666667%" %}
+Вступить можно по ссылке:
+
+[https://discord.com/invite/GrYQmDMs8w](https://discord.com/invite/GrYQmDMs8w)
+{% endcolumn %}
+{% endcolumns %}
+
+
 
 ***
 
-unner скинул лучшие аддоны для MIGI отдельно в архиве, можете тестировать!
+### Аддоны unner'a
 
-<figure><img src="../.gitbook/assets/изображение (55).png" alt=""><figcaption></figcaption></figure>
+Собраны лучшие аддоны для клипов в одной папке:
 
-{% embed url="https://www.mediafire.com/folder/?ljptdvhdnmcn6#ljptdvhdnmcn6" %}
+{% columns %}
+{% column width="58.333333333333336%" %}
+<figure><img src="../.gitbook/assets/изображение (55).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column width="41.666666666666664%" %}
+Скачать можно по ссылке:
+
+[https://www.mediafire.com/folder/?ljptdvhdnmcn6#ljptdvhdnmcn6](https://www.mediafire.com/folder/?ljptdvhdnmcn6#ljptdvhdnmcn6)
+{% endcolumn %}
+{% endcolumns %}
