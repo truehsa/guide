@@ -15,12 +15,16 @@ icon: eyes
 Большинство ответов на вопросы по HLAE собраны на этой странице. Всё на английском, если не шарите - пользуетесь переводчиком.
 {% endembed %}
 
-## @unner EDITING STREAM №1
+## Телеграм-канал @milokeztv
 
-Стрим с разбором от и до что используется для записи, разделено на тайм-коды.
+Пресеты решейда, гайды и плагины для After Effects, аддоны к MIGI и всякая всячина:
+
+{% embed url="https://t.me/milokeztv" %}
+
+## Editing Streams by @unner
+
+Стримы с разбором от и до что используется для записи, разделено на тайм-коды.
 
 {% embed url="https://www.youtube.com/watch?v=2IKMlYBag74" %}
-
-## @unner EDITING STREAM №2
 
 {% embed url="https://www.youtube.com/live/eiZbDiPolMk" %}
