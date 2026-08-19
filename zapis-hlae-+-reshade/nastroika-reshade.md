@@ -26,7 +26,7 @@ layout:
 
 Если вы [отсюда](../reshade/ustanovka.md#id-1-gotovyi-pak-reshade-v6.0.1) скачивали уже готовый пак решейда, то скорее всего при первом запуске у вас выйдет ошибка о том что эффекты недогрузились из-за того что не выставлены пути к ним.
 
-<figure><img src="../.gitbook/assets/изображение (1).png" alt="" width="474"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (1) (1).png" alt="" width="474"><figcaption></figcaption></figure>
 
 **Решение**:
 

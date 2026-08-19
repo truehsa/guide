@@ -67,6 +67,12 @@ layout:
 
 **Решение:** VPN / Проверить соединение с интернетом
 
+## MIGI - Не открывается
+
+**Решение:** Закиньте папку с Python в корень папки MIGI, по гайду из оф. сайта: [https://zoolsmith.github.io/MIGI3/0\_Using\_MIGI/2\_Troubleshooting/](https://zoolsmith.github.io/MIGI3/0_Using_MIGI/2_Troubleshooting/)
+
+<figure><img src=".gitbook/assets/изображение.png" alt=""><figcaption></figcaption></figure>
+
 ## MIGI - migi.exe Бесконечная загрузка/Белый экран
 
 **Решение:** Установите [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)

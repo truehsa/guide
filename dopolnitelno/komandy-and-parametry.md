@@ -91,7 +91,7 @@ layout:
 
 `fogui` - Некоторые настройки влияют на наложение решейда, можно играться.
 
-<figure><img src="../.gitbook/assets/изображение.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Shiny Effect
 
