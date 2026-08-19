@@ -32,7 +32,9 @@ layout:
 
 ## Пак пресетов, шейдеров, текстур
 
-[`https://drive.google.com/drive/folders/1bOEkD4Bq1FgfYBswf_66KWKqrf4Xh0rf?usp=drive_link`](https://drive.google.com/drive/folders/1bOEkD4Bq1FgfYBswf_66KWKqrf4Xh0rf?usp=drive_link)
+По сути это еще один чистый билд решейда, можно просто закинуть его вместо двух прошлых способов, но можете и просто взять оттуда нужные вам пресеты/шейдеры: [https://drive.google.com/drive/folders/1bOEkD4Bq1FgfYBswf\_66KWKqrf4Xh0rf?usp=drive\_link](https://drive.google.com/drive/folders/1bOEkD4Bq1FgfYBswf_66KWKqrf4Xh0rf?usp=drive_link)
+
+***
 
 Все пресеты сохраняются в папке где и решейд, тоесть просто закидываете все .ini файлы из архива в ту же папку:
 
