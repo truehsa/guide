@@ -27,9 +27,20 @@ layout:
 * Смена боту (вместо enemy\_bot - ник боту): `mirv_replace_name filter add x enemy_bot`
 * Cмена себе (после x ставим свой steamid64, вместо my\_nick ставьте свой): `mirv_replace_name filter add x7854835727182349 my_nick`
 
-Чтобы узнать steamid64 в моём конфиге можно прописать "id" в консоль.<br>
+Чтобы узнать steamid64 в конфиге из гайда можно прописать "id" в консоль.<br>
 
 <div><figure><img src="../.gitbook/assets/изображение (36).png" alt="" width="451"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/изображение (35).png" alt=""><figcaption></figcaption></figure></div>
+
+## Убрать смок
+
+Команды убирающие смок на демке с HLAE, прописать по очереди в консоль:
+
+mirv\_streams add baseFx\
+rec mirv\_streams edit rec settings blur\
+mirv\_streams edit rec actionfilter add "particle/vistasmokev1/vistasmokev1\_smokegrenade" nodraw\
+mirv\_streams edit rec smokeoverlayalphafactor 0\
+mirv\_streams edit rec reshade enabled 1\
+mirv\_streams preview rec
 
 ## HUD
 
