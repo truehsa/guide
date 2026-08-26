@@ -33,14 +33,14 @@ layout:
 
 ## Убрать смок
 
-Команды убирающие смок на демке с HLAE, прописать по очереди в консоль:
+Команды убирающие смок на демке с HLAE, прописать **по очереди** в консоль:
 
-mirv\_streams add baseFx\
-rec mirv\_streams edit rec settings blur\
-mirv\_streams edit rec actionfilter add "particle/vistasmokev1/vistasmokev1\_smokegrenade" nodraw\
-mirv\_streams edit rec smokeoverlayalphafactor 0\
-mirv\_streams edit rec reshade enabled 1\
-mirv\_streams preview rec
+`mirv_streams add baseFx` \
+`rec mirv_streams edit rec settings blur`\
+`mirv_streams edit rec actionfilter add "particle/vistasmokev1/vistasmokev1_smokegrenade" nodraw`\
+`mirv_streams edit rec smokeoverlayalphafactor 0`\
+`mirv_streams edit rec reshade enabled 1`\
+`mirv_streams preview rec`
 
 ## HUD
 
