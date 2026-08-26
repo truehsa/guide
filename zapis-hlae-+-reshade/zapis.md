@@ -36,7 +36,19 @@ layout:
 
 Открываете конфиг с помощью блокнота или другого редактора текста, нам надо поменять несколько значений по вашему вкусу:
 
-<figure><img src="../.gitbook/assets/изображение (67).png" alt=""><figcaption></figcaption></figure>
+{% columns %}
+{% column width="66.66666666666666%" %}
+<figure><img src="../.gitbook/assets/Zed_cl0lTBrNlW.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column width="33.33333333333334%" %}
+<figure><img src="../.gitbook/assets/изображение (69).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
 
 `host_framerate` отвечает за количество фпс при записи (чем оно больше, тем моушн блюр будет более гладким и мыльным); дефолтное значение - 1200.
 
