@@ -32,7 +32,7 @@ icon: folder-medical
 {% endcolumn %}
 {% endcolumns %}
 
-### AGENCY - Movement
+### AGENCY - Practice
 
 {% columns %}
 {% column width="75%" %}
@@ -56,7 +56,7 @@ icon: folder-medical
 {% endcolumn %}
 {% endcolumns %}
 
-### INSERTION II NIGHT - Movement
+### INSERTION II NIGHT - Practice
 
 {% columns %}
 {% column width="75%" %}
