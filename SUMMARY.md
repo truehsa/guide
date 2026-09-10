@@ -19,6 +19,11 @@
 * [Настройка ReShade](zapis-hlae-+-reshade/nastroika-reshade.md)
 * [Запись](zapis-hlae-+-reshade/zapis.md)
 
+## Запись демок
+
+* [Запись](zapis-demok/zapis.md)
+* [Демопаки](zapis-demok/demopaki.md)
+
 ## Дополнительно
 
 * [Туториалы](dopolnitelno/tutorialy.md)
