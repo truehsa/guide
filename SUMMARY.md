@@ -21,7 +21,7 @@
 
 ## ДЕМКИ
 
-* [Запись](demki/zapis.md)
+* [Создание](demki/sozdanie.md)
 * [Демопаки](demki/demopaki.md)
 
 ## Дополнительно
